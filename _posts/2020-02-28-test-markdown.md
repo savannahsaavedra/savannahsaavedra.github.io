@@ -10,6 +10,8 @@ comments: true
 
 #This is a header
 ## This is a subheader
+practice lab post for class 
+create new paragraph 
 **Here is some bold text**
 
 ## Here is a secondary heading
