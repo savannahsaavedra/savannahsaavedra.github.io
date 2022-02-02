@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: Savannah's lab entries 
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -18,10 +18,6 @@ Above all, I know these skills will be useful in my own dissertation writing, te
 which could be a mutually beneficial experience. My second goal is to push myself to consistently put forth my best effort, and to step out of my comfort zone. Specifically, 
 this means doing my best to read, understand, and critically think about the class readings before class, to come prepared and fully participate during in-class discussions. I intend to maintain this goal by starting the readings early in the week to have ample time to complete them and review my notes before class. Likewise, as this course will teach me so many new skills, I will inevitably be pushed outside my comfort zone, whether this means working through a technological problem with calmness and a clear mind, or just being open to learning something new that may take time to master. Overall, I always want to maintain a positive attitude to take advantage of the opportunity this course provides us to learn new skills and gain more insight into the growing Digital Humanities field. 
 
-
-
-## Here is a secondary heading
-### Here is another subheading 
 
 Here's a useless table:
 
